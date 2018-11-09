@@ -1,6 +1,1 @@
 Hello
-<<<<<<< HEAD
-Branch2 add this line
-=======
-Branch1 add new this line
->>>>>>> master
